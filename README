@@ -1,1 +1,8 @@
 ROS Tutorial
+Step to run: 
+1. Go the the space-concordia-robotics folder
+2. Open terminal and run `rosrun pycpp publisher`
+3. Open another terminal and run `rosrun pycpp2 subsriber.py`
+
+Result:
+
