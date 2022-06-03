@@ -1,0 +1,8 @@
+prefix=/home/tungvu/concordia/space-concordia/robotics/test/space-concordia-robotics/devel
+
+Name: pycpp2
+Description: Description of pycpp2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
